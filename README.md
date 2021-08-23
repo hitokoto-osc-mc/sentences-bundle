@@ -4,7 +4,7 @@
 
 ## 使用方法
 
-部署[一言开源社区API](https://github.com/hitokoto-osc/hitokoto-api)修改句子包数据库为此库即可。
+部署[一言·MC版定制API](https://github.com/hitokoto-osc-mc/hitokoto-api)即可。
 
 ## 使用须知
 
