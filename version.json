@@ -1,10 +1,10 @@
 {
   "protocol_version": "1.0.0",
-  "bundle_version": "1.0.7",
-  "updated_at": 1629745407035,
+  "bundle_version": "1.0.8",
+  "updated_at": 1629745499067,
   "categories": {
     "path": "./categories.json",
-    "timestamp": 1629745407035
+    "timestamp": 1629745499067
   },
   "sentences": []
 }
